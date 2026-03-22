@@ -1,12 +1,9 @@
 # TestePTBR-LLMs
-Método simples para testar o domínio da língua portuguesa do Brasil em qualquer LLM.
+🇧🇷 Um método minimalista para testar o domínio da norma-padrão do português brasileiro em qualquer LLM.
+ 
 
-# 🇧🇷 Teste de Proficiência em Português para LLMs
-
-Um método simples e direto para avaliar o domínio da língua portuguesa do Brasil em modelos de linguagem (LLMs).
-
-> [\!IMPORTANT]
-> **Nota sobre Precisão:** Este teste não visa máxima precisão estatística. A diferença entre um modelo que recebe nota 8 e outro que recebe nota 9 pode ser sutil. O objetivo é fornecer uma **avaliação rápida e aproximada** do nível de domínio gramatical e estilístico.
+> [!TIP]
+> **Filosofia do Projeto:** Priorizamos a **simplicidade** sobre o rigor estatístico. Este teste foca na capacidade do modelo em lidar com o "teto" da língua (linguagem acadêmica erudita), partindo do princípio que a proficiência técnica neste nível costuma refletir a qualidade geral do modelo.
 
 -----
 
