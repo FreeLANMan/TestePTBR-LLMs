@@ -1,0 +1,41 @@
+Para avaliar resposta:
+Dê uma nota de 0 a 10 ao domínio da norma-padrão do português brasileiro na resposta abaixo, penalizando severamente erros de regência, concordância e falta de naturalidade acadêmica.
+P: Escreva uma carta de recomendação formal de um professor titular de Economia para um ex-aluno, Lucas Silva, que foi seu monitor por dois anos e agora pleiteia uma vaga de doutorado na USP. O texto deve ser uma narrativa coesa (sem tópicos ou listas), escrita em português padrão brasileiro erudito, demonstrando sofisticação sintática e vocabulário acadêmico preciso.
+R: Querido Professor Silva,  
+
+Escrevo esta carta com o intuito de expressar minha reconhecimento por sua contribuição na formação acadêmica do aluno, Lucas Silva, durante os dois anos que ele monitorou com freqüência. Suas conquistas no campo da Economia e sua dedicação a esse conhecimento têm sido fundamentais para construir uma base sólida para futuros projetos de pesquisa e aplicação prática.  
+
+Como um estudante comprometido com o desenvolvimento acadêmico, Lucas demonstrou uma profunda compreensão das teorias e aplicações do seu currículo, destacando-se em tarefas complexas como análise dos mercados internacionais ou modelagem de economia social. Essa abordagem crítica, combinada com habilidades técnicas e intelectuais, tornou-se uma referência nas suas disciplinas.  
+
+A aplicação para o doutorado na Universidade Estadual Paulista (USP) me parece uma oportunidade única que permita expandir seu conhecimento em direção a contribuir significativamente para a área do estudo da economia global. Sua capacidade de transformar conceitos teóricos em soluções práticas, bem como sua disposição para enfrentar desafios acadêmicos, me tornam certos na necessidade de apoiá-lo no desenvolvimento deste caminho.  
+
+A Universidade Estadual Paulista reconhece a importância dessa colaboração e espera, com expectativa e confiança, que Lucas possa contribuir como um dos primeiros a seguir sua jornada acadêmica em direção ao doutorado. Agradeço minha atenção e espero por sua avaliação antes de finalizar o processo.  
+
+Atenciosamente,  
+[Nome do Professor]  
+[Informações de contato]
+
+
+
+-- Gemini 3 Flash:
+
+Nota: **2/10**
+
+A resposta apresenta falhas graves que comprometem tanto a norma-padrão quanto a coesão lógica e a naturalidade acadêmica exigidas pelo comando.
+
+### Análise Técnica
+
+* **Regência e Concordância:** Existem erros primários e inaceitáveis para um nível acadêmico erudito.
+    * *"expressar **minha** reconhecimento"* (Erro de concordância nominal).
+    * *"me tornam **certos**"* (Erro de concordância com o sujeito oculto "eu").
+    * *"me parece uma oportunidade única que **permita**"* (Erro de correlação verbal; o correto seria "permita" em contexto subjuntivo dependente, mas a construção está sintaticamente fraca).
+* **Vocabulário e Semântica:** O texto é confuso e, por vezes, contraditório.
+    * A saudação diz "Querido Professor Silva", mas o aluno é quem se chama Silva. O professor estaria escrevendo para si mesmo ou para o pai do aluno? Em uma carta de recomendação, o destinatário costuma ser a "Comissão de Seleção".
+    * *"Agradeço minha atenção"*: Uma construção sem sentido lógico; o correto seria "Agradeço a atenção".
+    * *"Universidade Estadual Paulista (USP)"*: Erro factual grave. A USP é a Universidade de São Paulo. A UNESP é a Universidade Estadual Paulista.
+* **Falta de Naturalidade Acadêmica:** O texto não utiliza a sofisticação sintática pedida. O uso de termos como "monitorou com freqüência" (com trema, abolido há anos) e a estrutura frasal são simplórios e repetitivos, falhando em demonstrar o "português erudito" solicitado.
+* **Coesão:** O último parágrafo sugere que a Universidade (USP/UNESP) está escrevendo a carta para si mesma, perdendo totalmente a perspectiva de que o autor deveria ser um Professor Titular recomendando um ex-aluno.
+
+---
+
+**Gostaria que eu reescrevesse essa carta utilizando o padrão erudito e a sintaxe sofisticada que o comando original exigia?**

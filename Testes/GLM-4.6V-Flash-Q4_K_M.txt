@@ -1,0 +1,44 @@
+GLM-4.6V-Flash-Q4_K_M
+zai-org/glm-4.6v-flash
+
+Dê uma nota de 0 a 10 ao domínio da norma-padrão do português brasileiro na resposta abaixo, penalizando severamente erros de regência, concordância e falta de naturalidade acadêmica.
+P: Escreva uma carta de recomendação formal de um professor titular de Economia para um ex-aluno, Lucas Silva, que foi seu monitor por dois anos e agora pleiteia uma vaga de doutorado na USP. O texto deve ser uma narrativa coesa (sem tópicos ou listas), escrita em português padrão brasileiro erudito, demonstrando sofisticação sintática e vocabulário acadêmico preciso.
+R: 
+Com grande satisfação, escrevo para recomendar o meu ex-aluno Lucas Silva em sua candidatura à vaga de doutorado na Faculdade de Economia da USP.
+
+É um aluno que demonstra uma capacidade excepcional de análise crítica e um profundo interesse pela teoria econômica. Durante dois anos consecutivos, Lucas atuou como monitor de pesquisa em meu grupo, contribuindo ativamente para a investigação em andamento. Sua participação foi fundamental: ele se dedicou com rigor aos trabalhos de campo, analisou dados empíricos com precisão e participou ativamente das discussões teóricas e metodológicas.
+
+A minha experiência com ele me permite afirmar que ele possui as qualidades essenciais para o sucesso em um programa de pós-graduação. Possui uma mentalidade investigativa, uma capacidade de pensar de forma autônoma e uma profunda dedicação ao trabalho acadêmico. Sua habilidade em trabalhar em equipe, ao mesmo tempo em que desenvolve projetos independentes, é notável.
+
+Estou confiante de que Lucas Silva será um excelente candidato para o programa da USP, e recomendo sua admissão com todo o entusiasmo e a certeza de seu potencial para contribuir significativamente à pesquisa econômica.
+
+
+-- Gemini 3 Flash:
+
+
+Avaliação do domínio da norma-padrão: **6.0 / 10**
+
+Embora o texto seja claro, correto do ponto de vista gramatical básico e cumpra a função comunicativa, ele falha significativamente em atender ao nível de **sofisticação sintática** e **erudição** solicitado no comando. Para um Professor Titular recomendando um doutorando para a USP, a redação está excessivamente simplória e repetitiva.
+
+---
+
+### Análise Crítica
+
+* **Pobreza Sintática e Falta de Coesão:** O texto abusa de frases curtas e estruturas coordenadas simples (períodos simples ou compostos por coordenação). Para um nível acadêmico elevado, espera-se o domínio de orações subordinadas, intercalações e o uso de conectivos mais sofisticados.
+* **Repetições Viciosas:** O uso reiterado de "ele" e "sua" torna a leitura monótona. Em um registro erudito, recorre-se a elipses, pronomes relativos e variações lexicais para manter a fluidez.
+* **Vagas de Regência e Naturalidade:** Expressões como "recomendar o meu ex-aluno Lucas Silva em sua candidatura" são gramaticalmente aceitáveis, mas burocráticas. Em um contexto de alta academia, prefere-se "recomendar Lucas Silva **à** vaga" ou "sublinhar o mérito de sua candidatura".
+* **Vocabulário Comum:** Termos como "grande satisfação", "estou confiante" e "todo o entusiasmo" são clichês que beiram o coloquialismo profissional, distanciando-se do "vocabulário acadêmico preciso" exigido.
+
+---
+
+### Exemplo de Reescrita (Nível 9.0 - 10)
+
+Para ilustrar o que seria esperado de um Professor Titular, observe a densidade sintática abaixo:
+
+> "É com inconteste satisfação que submeto esta missiva de recomendação em favor de Lucas Silva, cujas aptidões intelectuais tive o privilégio de acompanhar ao longo de seu profícuo biênio como monitor de pesquisa sob minha orientação. Durante tal período, o candidato não apenas demonstrou rigor analítico no trato de dados empíricos, mas também revelou uma argúcia teórica infrequente, contribuindo de forma substantiva para os debates metodológicos do nosso núcleo acadêmico.
+> 
+> A trajetória de Lucas é marcada por uma autonomia investigativa que o distingue, amalgamando a disciplina necessária ao trabalho de campo com uma densidade reflexiva essencial ao rigor do doutoramento nesta prestigiosa Faculdade de Economia da USP. Ante o exposto, assevero minha plena confiança em seu potencial contributivo à ciência econômica, recomendando sua admissão sem reservas."
+
+---
+
+**Gostaria que eu fizesse uma análise detalhada de quais conectivos ou estruturas gramaticais específicas poderiam elevar o tom de um texto acadêmico brasileiro?**

@@ -1,0 +1,63 @@
+gemma-3n-E4B-it-Q4_K_M
+
+Dê uma nota de 0 a 10 ao domínio da norma-padrão do português brasileiro na resposta abaixo, penalizando severamente erros de regência, concordância e falta de naturalidade acadêmica.
+P: Escreva uma carta de recomendação formal de um professor titular de Economia para um ex-aluno, Lucas Silva, que foi seu monitor por dois anos e agora pleiteia uma vaga de doutorado na USP. O texto deve ser uma narrativa coesa (sem tópicos ou listas), escrita em português padrão brasileiro erudito, demonstrando sofisticação sintática e vocabulário acadêmico preciso.
+R: 
+[Seu Nome Completo]
+Professor Titular de Economia
+[Departamento de Economia]
+[Universidade/Instituição]
+[Seu Email]
+[Seu Telefone]
+[Data]
+
+Comunidade Seletiva do Programa de Doutorado em Economia da USP,
+
+É com grande satisfação e profundo convicção que apresento esta carta de recomendação em favor de Lucas Silva, ex-aluno desta instituição e monitor de economia por dois anos. Durante esse período, tive a oportunidade de observar de perto seu desenvolvimento intelectual, sua dedicação assustadora aos estudos e sua notável capacidade analítica.
+
+Lucas demonstrou desde o início uma aptidão excepcional para os princípios econômicos, superando consistentemente as expectativas em suas responsabilidades como monitor. Sua habilidade em articular conceitos complexos de maneira clara e concisa era impressionante, permitindo-lhe auxiliar efetivamente outros estudantes na compreensão dos conteúdos programáticos.  Sua curiosidade intelectual, aliada a uma persistência admirável, o impulsionou a buscar sempre um aprofundamento do conhecimento, indo além do escopo exigido para a função.
+
+Acompanhei com interesse sua trajetória acadêmica após a conclusão de nossos cursos.  Conheço seus trabalhos e considero que ele possui as bases necessárias – tanto em termos de rigor metodológico quanto de visão crítica – para prosperar em um programa de doutorado tão exigente como o oferecido pela USP. Sua capacidade de síntese, combinada com uma sólida base teórica e um interesse genuíno por questões contemporâneas da economia, o tornam um candidato altamente promissor.  
+
+Acredito que Lucas Silva possui as qualidades intelectuais, a disciplina e a motivação necessárias para se destacar em sua jornada acadêmica e contribuir significativamente para o avanço do conhecimento na área de Economia. Recomendo-o com o mais alto grau de confiança e entusiasmo, certos de que ele será um valioso acréscimo à comunidade acadêmica da USP.
+
+Coloco-me à disposição para fornecer informações adicionais que possam ser necessárias.
+
+Atenciosamente,
+
+[Sua Assinatura]
+[Seu Nome Completo]
+Professor Titular de Economia.
+
+
+
+-- Gemini 3 Flash:
+Para uma análise rigorosa sob a ótica da norma-padrão e do decoro acadêmico, a nota atribuída é **7,5/10**.
+
+Embora o texto seja claro e bem estruturado, ele falha em atingir a "sofisticação sintática" e o "vocabulário preciso" solicitados, apresentando deslizes gramaticais pontuais e escolhas lexicais que rompem a formalidade esperada de um Professor Titular.
+
+---
+
+### Análise Detalhada
+
+**1. Erros de Concordância e Regência**
+* **"Com profundo convicção":** Há um erro crasso de concordância nominal. O adjetivo "profundo" (masculino) deveria concordar com o substantivo "convicção" (feminino). O correto seria: *com profunda convicção*.
+* **"Certos de que ele será...":** Erro de concordância entre o sujeito e o predicativo. Se a carta é assinada por um único professor ("apresento", "tive a oportunidade"), o adjetivo deve estar no singular: *certo de que ele será*.
+
+**2. Vocabulário e Naturalidade Acadêmica**
+* **"Dedicação assustadora":** O termo "assustadora" é excessivamente coloquial e carrega uma conotação ambígua, por vezes negativa. Em um contexto erudito, substitui-se por *exponencial, ímpar, abnegada* ou *notável*.
+* **"Comunidade Seletiva":** A saudação está artificial. Em contextos acadêmicos brasileiros, utiliza-se "À Comissão de Seleção" ou "Aos membros do Colegiado do Programa de Pós-Graduação".
+* **"Nossos cursos":** Soa impreciso. Um professor titular refere-se a "disciplinas ministradas" ou "atividades acadêmicas sob minha coordenação".
+
+**3. Sofisticação Sintática**
+* O texto abusa de estruturas coordenadas simples. Para um nível de doutorado na USP, esperava-se o uso de orações intercaladas, conjunções subordinativas mais ricas (conquanto, outrossim, dessarte) e uma exploração maior do potencial da norma culta para evitar repetições de "Sua capacidade", "Sua habilidade".
+
+---
+
+### Sugestão de Melhoria (Trecho Exemplo)
+
+> "É com profunda convicção que submeto este parecer acerca do desempenho de Lucas Silva. Durante o biênio em que exerceu a monitoria sob minha égide, logrou demonstrar não apenas rigor metodológico, mas uma acuidade analítica que transcende o escopo da graduação."
+
+**Gostaria que eu reescrevesse o texto completo elevando o nível do vocabulário e corrigindo esses desvios gramaticais?**
+
+

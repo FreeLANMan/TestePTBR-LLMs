@@ -1,0 +1,50 @@
+
+
+Dê uma nota de 0 a 10 ao domínio da norma-padrão do português brasileiro na resposta abaixo, penalizando severamente erros de regência, concordância e falta de naturalidade acadêmica.
+P: Escreva uma carta de recomendação formal de um professor titular de Economia para um ex-aluno, Lucas Silva, que foi seu monitor por dois anos e agora pleiteia uma vaga de doutorado na USP. O texto deve ser uma narrativa coesa (sem tópicos ou listas), escrita em português padrão brasileiro erudito, demonstrando sofisticação sintática e vocabulário acadêmico preciso.
+R: Estimado Professor Silva,
+
+Espero que este mensagem encontre você bem e satisfeito com o trabalho realizado por seu estudo. Eu sou Lucas Silva, um ex-aluno de sua titulação de Economia, e hoje quero oferecer minha expressão de gratidão pela sua confiança e apoio durante meu percurso acadêmico.
+
+Agradeço sinceramente pelo desempenho excepcional que você mostrou, especialmente em seu trabalho sobre [título do curso ou tópico]. Suas habilidades e inteligência matemáticas são inestimáveis, e suas contribuições significativas para este campo de estudo não serão escondidas.
+
+Agora, eu gostaria de propor uma oportunidade de colaboração com seu profundo expertise e amplamente reconhecido renome em sua disciplina. Estou particularmente intrigado por a possibilidade de trabalhar juntos no futuro, onde você poderia contribuir com minha tarefa relevante para [desenvolver doutorado ou pesquisa futura].
+
+Espero com entusiasmo oportunidade de discutir esta proposta em mais detalhes e explorar possíveis oportunidades de colaboração. Estou confiante que, com seu papel como monitor e myopia crescente no campo, esteja à disposição para contribuir com uma perspectiva valiosa.
+
+Sinceramente,
+
+[Your Name]
+
+-- Gemini 3 Flash:
+
+A nota para o texto apresentado é **1,5 de 10**.
+
+Embora o texto tente emular uma estrutura formal, ele falha gravemente em atender aos requisitos da norma-padrão e da naturalidade acadêmica. O conteúdo é, em grande parte, incompreensível ou logicamente invertido, sugerindo uma tradução automática mal executada ou falta de domínio sintático elementar.
+
+---
+
+### Análise Crítica
+
+Abaixo, os principais pontos de penalização divididos por categorias:
+
+**1. Inversão Pragmática e Erro de Registro**
+O comando solicitava uma carta de um **professor para um aluno**, mas o texto resultante inverte os papéis. O remetente se identifica como o aluno (Lucas Silva), mas o corpo do texto soa como se o aluno estivesse avaliando o professor ("agradeço pelo desempenho excepcional que você mostrou"). Além disso, o vocabulário é inadequado para o pleito de um doutorado na USP.
+
+**2. Erros Críticos de Concordância e Regência**
+* **Gênero:** "Este mensagem" (o correto é *esta*).
+* **Regência Verbal e Nominal:** "Intrigado por a possibilidade" (o correto é *pela* ou *com a*). "Espero com entusiasmo oportunidade" (falta o artigo definido *a*).
+* **Semântica e Colocação:** "Satisfeito com o trabalho realizado por seu estudo" é uma construção sem nexo lógico no português brasileiro.
+
+**3. Falta de Naturalidade e Erros Lexicais ("Falsos Amigos")**
+* **"Sinceramente":** Tradução literal do inglês *Sincerely*. Em cartas formais brasileiras, utiliza-se "Atenciosamente" ou "Cordialmente".
+* **"Myopia crescente":** O uso da palavra "miopia" (falta de visão/perspectiva) como algo positivo é um erro semântico grave. Provavelmente, tentou-se traduzir *focus* ou algo correlato, mas o resultado é pejorativo.
+* **"Sua titulação de Economia":** Um professor não possui uma "titulação de economia" como se fosse uma sala de aula; ele possui uma cátedra ou leciona uma disciplina.
+
+**4. Coesão e Sintaxe**
+O texto apresenta frases truncadas e estruturas que não existem na norma erudita, como "onde você poderia contribuir com minha tarefa relevante". A sofisticação sintática solicitada foi substituída por uma obscuridade textual que impede a fluidez da leitura.
+
+---
+
+Gostaria que eu redigisse uma versão que realmente atenda aos critérios de **português erudito e sofisticação sintática** para esse caso da USP?
+

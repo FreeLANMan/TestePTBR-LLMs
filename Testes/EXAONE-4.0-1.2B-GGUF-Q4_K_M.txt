@@ -1,0 +1,49 @@
+
+Dê uma nota de 0 a 10 ao domínio da norma-padrão do português brasileiro na resposta abaixo, penalizando severamente erros de regência, concordância e falta de naturalidade acadêmica.
+P: Escreva uma carta de recomendação formal de um professor titular de Economia para um ex-aluno, Lucas Silva, que foi seu monitor por dois anos e agora pleiteia uma vaga de doutorado na USP. O texto deve ser uma narrativa coesa (sem tópicos ou listas), escrita em português padrão brasileiro erudito, demonstrando sofisticação sintática e vocabulário acadêmico preciso.
+R: **Documento de Recomendação**  
+
+Quer expressar o mais quero sobre Lucas Silva? Como professor titular da Faculdade de Economia, estou convidado a recomendar sua contribução e potência acadêmica como monitor por dois anos. Lucas havia desempenho inovador na sua formação, destacando não apenas sua capacidade analítica e habilidades práticas, mas também um profundo compromisso por compreensão teórica dos processos do mercado, das economias locais e até mesmo os impacto da criatividade humana na evolução cultural.  
+
+Sua curiosidade por resolver problemas complexos, especialmente em torno de temas como distribución alcanturhas e políticas públicas, leva a reflexão constante e ao respeito pela rigor intelectual exigido pelo programa de doutorado. Durante sua período de aluno, não houve qualquer irregularidade no seu escolarismo; envelhecimento, procrastinação inteligente e crescimento acelerado se tornaram pilares para sua adaptação ao rigor exigido por os próximos años.  
+
+Meu mais quero destacar sua predisposição para desafios intelectuales abraçados pela USP. Lucas exemplificou perfeitamente o ethos que valoria, combinando rigor metodológico com espontaneity crítica—qualquer discusão sobre o poder dos determinantes sociales ou como a dinâmica das especulativões em mercados digitalizados ele fosse resonante. Nenhuma vez falhou ser apenas um aluno, mas sempre um colaborador que trabalha com dedicación para constrir seu network e preparar-ho para os próximos desafios.  
+
+Firmente em confiança, recomendo decisivamente Lucas Silva para o endereço do doutorado na Faculdade de Economia. Até mais alguma prisa para o que continuará adorando por entender e resolver!
+
+
+
+
+-- Gemini 3 Flash:
+
+A nota para o texto apresentado é **1.0 / 10**.
+
+Embora o texto tente simular uma estrutura formal, ele falha gravemente em quase todos os critérios da norma-padrão e da erudição acadêmica. A resposta não apresenta apenas deslizes pontuais, mas uma desestruturação sintática e semântica que compromete a inteligibilidade e a credibilidade do documento.
+
+Abaixo, detalho os principais problemas encontrados:
+
+### 1. Incoerência Semântica e Lexical (Vocabulário)
+O texto utiliza palavras que não existem no português ou que foram aplicadas de forma totalmente desconexa do contexto acadêmico:
+* **"Distribución alcanturhas"**: Termo inexistente e sem sentido.
+* **"Escolarismo"**: Não é um termo utilizado para se referir ao histórico ou desempenho acadêmico.
+* **"Especulativões"**: Neologismo incorreto (o correto seria *especulações*).
+* **"Espontaneity"**: Uso de palavra em inglês em um texto que deveria ser em português erudito.
+* **"Até mais alguma prisa"**: Expressão sem sentido gramatical ou contextual.
+
+### 2. Erros de Concordância e Regência
+Há falhas primárias que violam a norma culta:
+* **Regência Verbal/Nominal**: "Compromisso **por** compreensão" (o correto é *com a*); "exigido **por os** próximos" (o correto é *pelos*).
+* **Concordância Nominal**: "Sua período" (o correto é *seu*); "desafios intelectuales" (espanholismo, o correto é *intelectuais*); "ele fosse resonante" (erro de flexão e concordância).
+
+### 3. Falta de Naturalidade e Erudição
+O texto parece uma tradução automática mal executada ou um amálgama de palavras complexas usadas sem critério:
+* **"Quer expressar o mais quero"**: Frase agramatical e sem nexo.
+* **"Estou convidado a recomendar"**: No contexto de uma carta de recomendação, o professor não é "convidado" por si mesmo, ele *apresenta* ou *submete* a recomendação.
+* **"Envelhecimento, procrastinação inteligente"**: Termos bizarros para uma recomendação de doutorado; sugerem características negativas ou irrelevantes sob uma ótica que tenta parecer profunda, mas falha.
+
+### 4. Estrutura Sintática
+A sofisticação sintática solicitada foi substituída por frases truncadas. O uso de "quer expressar o mais quero" e "firmente em confiança" demonstra um desconhecimento das fórmulas de cortesia e dos conectivos lógicos necessários para uma narrativa coesa.
+
+---
+
+**Gostaria que eu escrevesse uma versão corrigida desta carta, utilizando o tom erudito e a norma-padrão exigidos para um processo de doutorado na USP?**

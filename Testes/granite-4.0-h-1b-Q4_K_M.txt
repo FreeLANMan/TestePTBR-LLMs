@@ -1,0 +1,63 @@
+granite-4.0-h-1b-Q4_K_M
+
+Dê uma nota de 0 a 10 ao domínio da norma-padrão do português brasileiro na resposta abaixo, penalizando severamente erros de regência, concordância e falta de naturalidade acadêmica.
+P: Escreva uma carta de recomendação formal de um professor titular de Economia para um ex-aluno, Lucas Silva, que foi seu monitor por dois anos e agora pleiteia uma vaga de doutorado na USP. O texto deve ser uma narrativa coesa (sem tópicos ou listas), escrita em português padrão brasileiro erudito, demonstrando sofisticação sintática e vocabulário acadêmico preciso.
+R: Assunto: Carta de Recomendação para Lucas Silva - Vaga de Doutorado na USP
+
+Prezado(a) [Nome do Responsável],
+
+Fique em confiança com a presente carta, que reúne minhas avaliações sobre o desempenho acadêmico e pessoal de Lucas Silva durante sua estadia como aluno no curso de Economia da Universidade Federal do Paraná (UNP). Como seu professor titular, fui muito influenciado por suas contribuições tanto na sala de aula quanto fora dele. Eu confiro que ele apresentou um alto nível de dedicação e inteligência intelectual.
+
+Durante os dois anos em que Lucas foi meu monitor, eu observo como se transformou uma curiosa mentira ao passar dos conceitos do Economia para estudos avançados mais complexos. Sua compreensão das teorias econômicas fundamentais e sua capacidade de aplicá-las a situações práticas são excepcionais. Esse desenvolvimento se manifesta, por exemplo, em seu projeto final sobre "A Teoria dos Jogos como Modelo para o Comportamento Econômico". O trabalho não apenas demonstrou uma profunda compreensão das ideias teóricas, mas também sua relevância prática no mercado econômico atual.
+
+Além disso, Lucas foi um integrante valioso do espaço acadêmico da UNP. Ele participou ativamente de discussões em sala de aula e demonstra uma habilidade notável para analisar problemas complexos. Sua capacidade de questionar as suposições fundamentais dos textos teóricos é particularmente notable, revelando um nível elevado de pensamento crítico que será inestimável em sua futura pesquisa.
+
+Em termos pessoais, Lucas foi sempre organizado e meticuloso. Sua gestão do tempo para tarefas acadêmicas, bem como suas habilidades de escrita e comunicação, são exemplares. Ele demonstrou um compromisso total com o seu curso por meio de frequentes pesquisas independentes e entrega de trabalhos exatos a cada prazo.
+
+Por último, é importante destacar que Lucas foi sempre colaborativo e respeitoso em sua interação com colegas estudantes e professores. Sua capacidade de trabalhar em equipe para tarefas complexas reforça ainda mais suas habilidades intelectuais e social.
+
+Em conclusão, eu recomendo lucro a Lucas Silva como candidato ideal para uma vaga de doutorado na USP, pois sua profunda expertise acadêmica combinada com um forte potencial pessoal o torna capaz de contribuir significativamente à pesquisa em Economia. Estou convencido de que seu talento e paixão por estudos acadêmicos levarão a realizações notáveis na academia.
+
+Obrigado por considerar meu avaliação no processo seletivo.
+
+Atenciosamente,
+
+[Seu Nome]
+
+
+
+
+-- Gemini 3 Flash:
+
+A nota para o domínio da norma-padrão na resposta apresentada é **2,0 / 10**.
+
+Embora o texto mantenha a estrutura formal de uma carta, ele falha gravemente em quase todos os requisitos de erudição, sintaxe e precisão terminológica solicitados. O texto apresenta o que chamamos de "falsos cognatos sintáticos" e traduções literais que denunciam o uso de ferramentas de tradução automática, resultando em uma falta de naturalidade acadêmica profunda.
+
+---
+
+### Análise dos Principais Erros
+
+#### 1. Erros de Regência e Concordância
+* **"Fique em confiança com a presente carta"**: Expressão inexistente e semanticamente agramatical no português. O correto seria "Venho, por meio desta, apresentar..." ou "É com satisfação que submeto...".
+* **"tanto na sala de aula quanto fora dele"**: Erro de concordância de gênero. O referente é "sala" (feminino), logo, deveria ser "fora **dela**".
+* **"reforça ainda mais suas habilidades intelectuais e social"**: Erro de concordância nominal. O adjetivo deve flexionar no plural: "**sociais**".
+* **"considerar meu avaliação"**: Erro crasso de concordância de gênero (o substantivo "avaliação" é feminino).
+
+#### 2. Falta de Naturalidade e Imprecisão Vocabular
+* **"Estadia como aluno"**: Em contextos acadêmicos, utiliza-se "permanência", "percurso" ou "graduação". "Estadia" remete a hotelaria ou períodos curtos.
+* **"Eu confiro que ele..."**: Uso inadequado do verbo "conferir". O autor quis dizer "atesto", "testemunho" ou "reitero".
+* **"Inteligência intelectual"**: Pleonasmo vicioso e pouco sofisticado.
+* **"Uma curiosa mentira"**: Este é o erro mais grave do texto. Provavelmente uma tradução errônea de *curious mind* (mente curiosa). No contexto brasileiro, chamar a trajetória do aluno de "mentira" é ofensivo e incoerente.
+* **"Eu recomendo lucro a Lucas Silva"**: Erro semântico absurdo. O verbo recomendar, neste contexto, não aceita o substantivo "lucro". O autor provavelmente tentou traduzir algo como *highly recommend* ou se confundiu com a estrutura da frase.
+
+#### 3. Pobreza Sintática e Estilo
+* **Repetição de sujeito**: O uso excessivo do pronome "Eu" (Eu confiro, Eu observo, Eu recomendo) é uma marca de escrita anglófona ou pouco matura. O português erudito prefere a voz passiva sintética, o sujeito oculto ou construções impessoais.
+* **Terminologia Econômica**: O texto menciona "mercado econômico atual", um termo genérico que não condiz com o vocabulário de um Professor Titular, que utilizaria termos como "conjuntura econômica" ou "dinâmicas de mercado".
+
+---
+
+### Conclusão
+O texto não atende ao pedido de "sofisticação sintática". Pelo contrário, a redação é truncada, apresenta erros elementares de concordância de gênero e número, e contém falhas de tradução que tornam o conteúdo, em certos pontos, incompreensível ou involuntariamente cômico.
+
+**Gostaria que eu redigisse uma versão que realmente atenda a esses critérios de erudição e norma-padrão para o Lucas Silva?**
+

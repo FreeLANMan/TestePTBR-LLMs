@@ -1,0 +1,162 @@
+
+Dê uma nota de 0 a 10 ao domínio da norma-padrão do português brasileiro na resposta abaixo, penalizando severamente erros de regência, concordância e falta de naturalidade acadêmica.
+P: Escreva uma carta de recomendação formal de um professor titular de Economia para um ex-aluno, Lucas Silva, que foi seu monitor por dois anos e agora pleiteia uma vaga de doutorado na USP. O texto deve ser uma narrativa coesa (sem tópicos ou listas), escrita em português padrão brasileiro erudito, demonstrando sofisticação sintática e vocabulário acadêmico preciso.
+R: 
+Caros membros da comunidade acadêmica,
+
+É com grande satisfação que me destaco como recomendador para o seu candidatura a uma vaga de doutorado na Universidade de São Paulo. Durante um período profissional marcante, que abrangeu dois anos em minha área de ensino e pesquisa, tive a oportunidade de acompanhar a trajetória intelectual e metodológica do Lucas Silva com um olhar crítico e altamente responsável.
+
+O professor Silva se destacou não apenas como mestre teórico, mas como orientador humano que inspirou a transformação intelectual de numerosos estudantes. Sua capacidade de transmitir conceitos econômicos complexos em uma linguagem acessível, aliada a sua dedicação contínua ao desenvolvimento dos alunos, consolidaram seu papel como figura central no ambiente acadêmico da minha instituição.
+
+Foi durante esses anos que eu testemunhei o crescimento de um jovem com potencial excepcional, capaz não apenas de compreender as teorias fundamentais da economia, mas também de questioná-las com clareza e originalidade. Sua formação acadêmica sólida, aliada à sua persistência diante dos desafios, evidenciam uma mente afiada e uma visão crítica que se alinha perfeitamente aos rigoros padrões exigidos para o avanço em pesquisas de alto nível.
+
+Aproximo-me com orgulho na capacidade do Lucas de equilibrar a análise teórica com uma sensibilidade social e econômica que o diferencia entre os concorrentes. Sua postura ética, sua curiosidade intelectual e sua resiliência em momentos críticos refletem as qualidades indispensáveis para um futuro em investigação na prestigiosa USP.
+
+Que este convite represente mais do que apenas uma recomendação: seja visto como uma referência confiável no caminho acadêmico de Lucas Silva, capaz de contribuir significativamente para o debate e a inovação no campo da economia.
+
+Atenciosamente,  
+[O nome do professor]  
+Professor Titular de Economia
+
+
+
+
+-- Gemini 3 Flash:
+
+A nota atribuída ao texto é **4,0/10**.
+
+Embora o texto tente emular uma sonoridade formal, ele falha gravemente no quesito **norma-padrão** e na **naturalidade acadêmica**. O conteúdo apresenta erros elementares de concordância e regência, além de uma confusão estrutural profunda sobre quem é o objeto da recomendação.
+
+---
+
+### Análise Crítica
+
+#### 1. Erros Gramaticais e Sintáticos
+* **Concordância Nominal:** "para o **seu candidatura**" (o correto seria *a sua candidatura*). "Rigoros padrões" (falta o 's' em *rigorosos*).
+* **Regência Verbal:** "Aproximo-me com orgulho **na** capacidade" (o correto seria *da* ou *pela* capacidade).
+* **Ambiguidade e Incoerência:** O texto refere-se ao candidato, Lucas Silva, como "**O professor Silva**" e afirma que ele atuou como "**mestre teórico**" e "**orientador**". O enunciado deixava claro que Lucas foi um **monitor** (aluno auxiliar). Atribuir títulos de professor e orientador a um candidato ao doutorado é um erro factual e de etiqueta acadêmica.
+
+#### 2. Falta de Naturalidade Acadêmica
+* **Vocabulário Impreciso:** A frase "me destaco como recomendador" é artificial e deselegante. Na tradição acadêmica brasileira, utiliza-se "venho recomendar" ou "apresento minha recomendação".
+* **Solecismos e Estrangeirismos Semânticos:** O termo "investigação" é mais comum no português de Portugal ou em traduções literais do inglês (*research*). No Brasil, prefere-se "pesquisa".
+* **Confusão de Tratamento:** O texto oscila entre tratar o destinatário como "Caros membros" (plural) e usar "seu candidatura" (singular), criando uma quebra de interlocução.
+
+#### 3. Erros de Coesão e Estilo
+* O encerramento ("Que este convite represente...") é semanticamente nulo, pois uma carta de recomendação não é um "convite".
+* O uso de "destaco como recomendador para o seu candidatura" denota falta de revisão básica, algo inaceitável para um Professor Titular.
+
+---
+
+### Exemplo de Reescrita (Padrão Erudito)
+
+Para atingir a nota máxima, o texto deveria seguir este patamar:
+
+> "É com incontestável satisfação que submeto esta missiva de recomendação em favor de Lucas Silva, cujo desempenho como meu monitor de ensino e pesquisa, ao longo de um biênio, permitiu-me atestar sua singular maturidade intelectual. Demonstrou ele não apenas o domínio exegético das teorias econômicas fundamentais, mas uma acuidade crítica perante modelos contemporâneos, aliando o rigor analítico a uma conduta ética irrepreensível — atributos que o qualificam plenamente ao prestigioso programa de doutorado desta universidade."
+
+---
+
+**Gostaria que eu reescrevesse a carta completa seguindo rigorosamente esses critérios de erudição para o seu caso?**
+
+
+
+
+---
+
+---
+
+
+-- Com temperatura = 0,1:
+
+
+Caros membros da comunidade acadêmica,
+
+É com grande satisfação que me dirijo a você, Lucas Silva, para expressar minha mais sincera recomendação em seu contexto profissional atual. Durante o período de duas anos que você dedicou ao meu ensino e orientação como professor titular da área de Economia na Universidade do São Paulo, testemunhei um perfil intelectual excepcional, combinando rigor acadêmico com uma visão crítica e visionária sobre os desafios contemporâneos do campo.
+
+Sua trajetória no ambiente universitário não passou despercebida; foi por meio de sua dedicação, curiosidade intelectual e capacidade analítica que você se destacou como um dos alunos mais promissores da turma. A maneira como abordava as disciplinas, sempre com uma postura reflexiva e uma busca constante por aprofundar o entendimento dos conceitos econômicos, reflete não apenas sua competência técnica, mas também sua capacidade de pensar de forma crítica e inovadora — qualidades essenciais para qualquer pesquisador em andamento.
+
+Além disso, a relação que estabeleci com você foi marcada por um compromisso genuíno com o desenvolvimento intelectual do estudante. Acredito firmemente que a excelência acadêmica não se limita à memorização de conteúdos, mas sim à capacidade de internalizar conhecimentos e aplicá-los em contextos complexos. Você demonstrou uma postura proativa, assumindo responsabilidades além do papel tradicional de professor, contribuindo ativamente para a formação de futuros profissionais da área.
+
+Hoje, com o objetivo de buscar uma vaga de doutorado na Universidade do São Paulo, sinto-me honrado em poder afirmar que Lucas possui não apenas sólida base teórica e metodológica, mas também uma visão estratégica sobre os desafios que permeiam a economia contemporânea. Sua capacidade de síntese, argumentação clara e pensamento crítico são atributos indispensáveis para o avanço da pesquisa nessa área.
+
+Estou convencido de que você trará valor significativo ao projeto acadêmico da USP, trazendo consigo uma combinação única de conhecimento, ética profissional e determinação. Recomendo fortemente sua candidatura com todo o caráter.
+
+Atenciosamente,  
+[Seu nome]  
+Professor Titular em Economia  
+Universidade do São Paulo
+
+
+
+
+
+
+A nota para a resposta apresentada, considerando os critérios de regência, concordância, naturalidade acadêmica e sofisticação sintática, é **3/10**.
+
+Embora o texto tente emular um tom formal, ele falha gravemente em aspectos estruturais e lógicos. A "penalização severa" justifica-se porque o autor da carta comete erros básicos de gramática e, pior, **confunde as vozes da narrativa**, tornando o texto incoerente para um contexto de doutorado na USP.
+
+---
+
+### Análise dos Principais Erros
+
+#### 1. Incoerência Narrativa e de Interlocução (Grave)
+O maior problema do texto é a confusão sobre **quem fala com quem**.
+* O cabeçalho diz: *"Caros membros da comunidade acadêmica"* (Terceiros).
+* O corpo do texto diz: *"me dirijo a **você**, Lucas Silva"* (Interlocutor direto).
+* Uma carta de recomendação é enviada à banca examinadora **sobre** o aluno, e não **para** o aluno. O texto alterna entre a 2ª pessoa ("você") e a 3ª pessoa ("Lucas possui"), demonstrando falta de domínio do gênero textual.
+
+#### 2. Erros de Concordância e Regência
+* **"Durante o período de duas anos":** Erro crasso de concordância nominal (o correto é *dois anos*).
+* **"Universidade do São Paulo":** Erro de regência de artigo. O correto é *Universidade de São Paulo* (USP). O erro se repete ao longo do texto.
+* **"Recomendo [...] com todo o caráter":** Expressão sem sentido idiomático ou acadêmico. Provavelmente uma tradução literal malfeita de algo como "full character reference", que não existe em português.
+
+#### 3. Falta de Naturalidade Acadêmica e Vícios de Linguagem
+* **"Meu ensino e orientação como professor titular":** A frase sugere que o aluno orientou o professor, e não o contrário.
+* **"Pesquisador em andamento":** Expressão inexistente. O correto seria *pesquisador em formação*.
+* **"Assumindo responsabilidades além do papel tradicional de professor":** Aqui o texto afirma que o **aluno** (Lucas) assumiu o papel de professor, o que é um contrassenso jurídico e acadêmico para um monitor.
+* **"Contexto profissional atual":** Termo vago e genérico, pouco comum em cartas de recomendação para doutorado, que focam em *mérito acadêmico*.
+
+#### 4. Pobreza Sintática
+Apesar do pedido por "sofisticação sintática", o texto abusa de clichês e estruturas repetitivas ("Sua trajetória...", "Sua capacidade...", "Sua postura..."). Não há o uso de orações intercaladas complexas ou conectivos de transição sofisticados que se espera de um Professor Titular.
+
+---
+
+### Exemplo de como deveria ser (Trecho)
+
+> *"É com grata satisfação que submeto à apreciação desta douta comissão o nome de Lucas Silva. Na qualidade de seu orientador e docente titular, acompanhei de perto sua profícua trajetória como monitor por dois anos, período em que Silva demonstrou não apenas densidade teórica, mas uma agudeza analítica singular no trato das variáveis macroeconômicas..."*
+
+---
+
+**Gostaria que eu reescrevesse essa carta utilizando o padrão erudito e a estrutura correta exigida pela USP?**
+
+
+
+
+
+
+---
+
+---
+
+
+-- Com temperatura = 1
+
+
+Querido Lucas,
+
+escrevo a seguir desta carta com o mais profundo respeito ao caminho que você percorreu até aqui e com admiração pela sua persistência e dedicação ao campo da Economia. Durante os dois anos em que atuou como seu monitor em nossa instituição, compreendi a importância de investir tempo e esforço para construir uma base sólida no estudo acadêmico. Sua relação comigo foi mais do que apenas orientação técnica; foi um momento crucial na minha trajetória intelectual, onde percebi o impacto do apoio constante e atencioso sobre o desenvolvimento de pensamento crítico e capacidade analítica.
+
+A sua formação, tanto no ensino quanto em sua prática profissional, reflete uma paixão inabalável pelo conhecimento e pela resolução de problemas complexos. É impressionante ver como você aplicou os conceitos teóricos aprendidos durante nossa parceria, não apenas para aprofundar sua compreensão, mas também para desenvolver uma visão mais ampla sobre as dinâmicas econômicas contemporâneas. Sua capacidade de articulá-las com clareza e profundidade é algo raro no contexto acadêmico atual.
+
+Agora, em busca de um futuro acadêmico ainda mais promissor, Lucas se candidatou a uma vaga de doutorado na Universidade do São Paulo (USP), com o objetivo claro de contribuir significativamente para a investigação científica dentro dos campos que sempre me fascinaram. Sua postura proativa e compromisso com a excelência acadêmica são sinais claros da maturidade e ambição necessárias para esse desafio. Estou convicto de que sua trajetória, marcada por dedicação e visão, será um valor inestimável para a equipe da USP.
+
+Tenho certeza de que você possui as qualidades intelectuais, emocionais e acadêmicas necessárias para enfrentar com sucesso esse importante momento em sua carreira. Contar com o seu perfil não apenas como candidato, mas como representante de talento e determinação, é uma honra.
+
+Caro Lucas,
+
+tenho a certeza de que você merece ser considerado entre os mais destacados da nossa instituição durante esse período formativo. Agradeço pela oportunidade de ter contribuído para o seu desenvolvimento, mesmo em meio à transição que você está por encarar. Espero, com sincera confiança, que sua candidatura seja bem avaliada e que seus futuros estudos sejam marcados pelo mesmo rigor, paixão e excelência que sempre caracterizaram sua trajetória.
+
+Atenciosamente,  
+[Seu nome]  
+Professor Titular de Economia  
+Universidade do São Paulo – USP
+
