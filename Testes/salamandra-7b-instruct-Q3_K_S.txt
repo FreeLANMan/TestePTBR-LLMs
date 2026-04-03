@@ -1,0 +1,59 @@
+salamandra-7b-instruct-Q3_K_S
+
+Dê uma nota de 0 a 10 ao domínio da norma-padrão do português brasileiro na resposta abaixo, penalizando severamente erros de regência, concordância e falta de naturalidade acadêmica.
+P: Escreva uma carta de recomendação formal de um professor titular de Economia para um ex-aluno, Lucas Silva, que foi seu monitor por dois anos e agora pleiteia uma vaga de doutorado na USP. O texto deve ser uma narrativa coesa (sem tópicos ou listas), escrita em português padrão brasileiro erudito, demonstrando sofisticação sintática e vocabulário acadêmico preciso.
+R: Aqui está a carta:
+
+Ao Diretor do Programa de Pós-Graduação em Economia da Universidade de São Paulo,
+
+O Reitor da Universidade de Xyz, por meio deste, reitera o seu entusiasmo com a indicação de Lucas Silva para uma vaga de doutorado no referido programa. Ao longo dos dois anos que atuou como monitor de minha disciplina, ele demonstrou ser um aluno dedicado e bem preparado, além de possuir excelentes habilidades de comunicação. Sua capacidade de trabalho em equipe e sua responsabilidade são dignas de nota. Por fim, a carta ressalta os notáveis méritos acadêmicos de Lucas, como o prêmio pela média mais alta da turma no mesmo período de atuação como monitor.
+
+Atenciosamente,
+
+[Assinatura]
+
+
+
+
+
+
+
+
+A nota atribuída à resposta é **4/10**.
+
+Embora o texto seja compreensível e esteja escrito em um registro formal, ele falha gravemente em atender aos requisitos específicos do comando e viola normas fundamentais de coesão, regência e naturalidade acadêmica.
+
+---
+
+## Análise Crítica
+
+### 1. Incoerência Narrativa e de Persona
+O comando solicitava uma carta escrita por um **professor titular**, mas o texto começa identificando o remetente como o **Reitor**. Além de ser uma inconsistência factual, o corpo do texto oscila entre a primeira pessoa ("minha disciplina") e a terceira pessoa ("a carta ressalta"), o que é um erro elementar de coesão e estilo acadêmico.
+
+### 2. Deficiências de Vocabulário e Sintaxe
+Para um "português erudito com sofisticação sintática", o texto é excessivamente simplista.
+* **Falta de Subordinação:** O texto utiliza períodos curtos e coordenados, lembrando uma redação escolar, em vez de empregar estruturas hipotáticas (orações subordinadas) típicas da alta academia.
+* **Pobreza Lexical:** Termos como "excelentes habilidades" e "bem preparado" são genéricos. Faltou o uso de termos precisos da área econômica ou adjetivação mais densa (ex: *notória acuidade analítica*, *prolificidade acadêmica*, *estofo teórico*).
+
+### 3. Erros de Regência e Norma-Padrão
+* **Regência Verbal:** No trecho "Ao longo dos dois anos **que** atuou", há um erro de regência. O verbo *atuar*, nesse contexto de tempo, exige a preposição: "durante os quais" ou "em que".
+* **Voz Passiva Viciada:** O uso de "por meio deste" (sem o substantivo "documento" ou "instrumento") é uma fórmula desgastada e, no contexto apresentado, soa burocrática, não erudita.
+
+### 4. Naturalidade Acadêmica
+Uma carta de recomendação de um Professor Titular para o doutorado da USP exige uma análise do perfil intelectual do candidato. O texto foca em "trabalho em equipe" e "responsabilidade", que são competências comportamentais (*soft skills*), negligenciando a profundidade da pesquisa e o rigor metodológico esperados em um nível de doutoramento.
+
+---
+
+## Comparação de Estruturas
+
+| Aspecto | Texto Original | Padrão Erudito Esperado |
+| :--- | :--- | :--- |
+| **Abertura** | "reitera o seu entusiasmo" | "submeto a Vossas Excelências o meu mais firme endosso" |
+| **Conexão** | "Além de possuir" | "aliando a tal proficiência uma rara..." |
+| **Regência** | "anos que atuou" | "biênio em que desempenhou" |
+
+---
+
+Gostaria que eu reescrevesse essa carta aplicando o nível de sofisticação sintática e o vocabulário erudito que o comando original exigia?
+
+

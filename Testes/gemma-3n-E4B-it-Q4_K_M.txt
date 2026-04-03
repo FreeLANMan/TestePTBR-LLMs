@@ -61,3 +61,80 @@ Embora o texto seja claro e bem estruturado, ele falha em atingir a "sofisticaç
 **Gostaria que eu reescrevesse o texto completo elevando o nível do vocabulário e corrigindo esses desvios gramaticais?**
 
 
+
+
+
+
+
+
+
+
+
+
+---
+Novo texto, nova avaliação, mesmo modelo, mesmas configurações, mesmo avaliador
+---
+
+Dê uma nota de 0 a 10 ao domínio da norma-padrão do português brasileiro na resposta abaixo, penalizando severamente erros de regência, concordância e falta de naturalidade acadêmica.P: Escreva uma carta de recomendação formal de um professor titular de Economia para um ex-aluno, Lucas Silva, que foi seu monitor por dois anos e agora pleiteia uma vaga de doutorado na USP. O texto deve ser uma narrativa coesa (sem tópicos ou listas), escrita em português padrão brasileiro erudito, demonstrando sofisticação sintática e vocabulário acadêmico preciso.R: 
+[Seu Nome Completo]
+Professor Titular de Economia
+[Departamento de Economia]
+[Universidade/Instituição]
+[Seu Email]
+[Seu Telefone]
+[Data]
+
+Com a presente, tenho o prazer de recomendar com o mais alto grau de convicção o Sr. Lucas Silva para o programa de Doutorado em Economia da Universidade de São Paulo. Tive a honra de acompanhar o desenvolvimento acadêmico do Sr. Silva por dois anos, durante os quais ele atuou como meu monitor em diversas disciplinas, demonstrando notável aptidão intelectual e uma profunda compreensão dos princípios econômicos fundamentais.
+
+Desde o início, Lucas se destacou pela sua capacidade de absorver conceitos complexos com agilidade e discernimento. Sua habilidade em articular ideias e apresentar análises coerentes, tanto oralmente quanto por escrito, foi constantemente admirável. Durante nosso período de colaboração, ele demonstrou um interesse genuíno pela pesquisa acadêmica, buscando ativamente aprofundar seus conhecimentos e questionar as premissas estabelecidas.
+
+Em particular, lembro-me de sua contribuição valiosa para [mencione um projeto específico em que Lucas o ajudou - ex: "a elaboração da análise econométrica sobre o impacto das políticas fiscais na região Sudeste"]. Sua meticulosidade na coleta e interpretação de dados, aliada a uma sólida base teórica, resultou em resultados significativos e demonstraram sua capacidade analítica.
+
+Acredito que Lucas possui um potencial extraordinário para se destacar no ambiente acadêmico de alto nível da USP. Sua dedicação ao estudo, sua curiosidade intelectual e sua capacidade de trabalho em equipe são qualidades raras e valiosas. Estou certo de que ele será um pesquisador produtivo e contribuirá significativamente para o avanço do conhecimento na área de Economia.
+
+Recomendo-o sem hesitação e com a plena confiança de que ele corresponderá às expectativas do programa de Doutorado da USP. Coloco-me à disposição para fornecer informações adicionais, caso necessário.
+
+Atenciosamente,
+
+[Sua Assinatura]
+[Seu Nome Completo]
+Professor Titular de Economia.
+
+
+
+
+
+
+A minha avaliação para o domínio da norma-padrão e o rigor acadêmico da resposta apresentada é **7.5/10**.
+
+Embora o texto seja claro, gramaticalmente correto em um nível básico e cumpra a função comunicativa, ele falha em atingir o patamar de "sofisticação sintática" e "erudição" solicitado no comando original. Para um Professor Titular recomendando um doutorando para a USP, espera-se uma construção de frase mais densa e um vocabulário menos genérico.
+
+Abaixo, detalho os pontos de melhoria conforme os critérios estabelecidos:
+
+### Análise Crítica
+
+* **Naturalidade Acadêmica e Erudição:** O texto abusa de clichês e estruturas simples ("tenho o prazer de recomendar", "tem o potencial para se destacar"). Na academia de alto nível, busca-se uma impessoalidade mais refinada ou o uso de verbos de maior precisão semântica.
+* **Sintaxe:** As sentenças são curtas e predominantemente na ordem direta. Um texto "erudito" exige o manejo de orações subordinadas intercaladas, o uso correto de mesóclises (se couber) ou, no mínimo, uma variação rítmica que demonstre domínio da prosa clássica.
+* **Regência e Vocabulário:**
+    * O uso de "Com a presente" é datado (estilo comercial antigo) e pouco fluido para o meio acadêmico.
+    * "Resultou em resultados" é um vício de linguagem (pleonasmo vicioso) que penaliza severamente a nota de um texto que se pretende sofisticado.
+    * O termo "meticulosidade" é bom, mas "notável aptidão" e "interesse genuíno" são expressões muito batidas.
+
+---
+
+### Exemplos de Reescrita (O que seria nota 10)
+
+Para elevar a nota, o texto deveria transitar de uma estrutura comum para uma estrutura de alta complexidade:
+
+| Trecho Original | Proposta de Elevada Erudição |
+| :--- | :--- |
+| "Tenho o prazer de recomendar o Sr. Lucas Silva..." | "É-me grato submeter à apreciação desta douta comissão a candidatura de Lucas Silva, cuja trajetória acompanhei detidamente..." |
+| "Lucas se destacou pela sua capacidade de absorver conceitos..." | "Incorreu em franca distinção a proficiência com que o candidato apreende constructos teóricos de elevada abstração..." |
+| "...resultou em resultados significativos..." | "...consubstanciou-se em achados de inequívoco rigor empírico e relevância metodológica." |
+
+---
+
+### Veredito
+O texto entregue é um **"B+"**. Ele é seguro e não comete erros grosseiros de concordância, mas é "morno". Para uma recomendação de doutorado na USP escrita por um Titular, falta a autoridade intelectual que transparece através de uma sintaxe mais vigorosa e de um léxico mais especializado.
+
+**Gostaria que eu reescrevesse essa carta aplicando esse nível máximo de sofisticação e corrigindo as repetições vocabulares?**

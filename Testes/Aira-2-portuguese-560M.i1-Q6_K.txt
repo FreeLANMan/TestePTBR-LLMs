@@ -1,0 +1,30 @@
+Aira-2-portuguese-560M.i1-Q6_K
+
+Dê uma nota de 0 a 10 ao domínio da norma-padrão do português brasileiro na resposta abaixo, penalizando severamente erros de regência, concordância e falta de naturalidade acadêmica.P: Escreva uma carta de recomendação formal de um professor titular de Economia para um ex-aluno, Lucas Silva, que foi seu monitor por dois anos e agora pleiteia uma vaga de doutorado na USP. O texto deve ser uma narrativa coesa (sem tópicos ou listas), escrita em português padrão brasileiro erudito, demonstrando sofisticação sintática e vocabulário acadêmico preciso.R: 
+Prezada [nome do professor],
+
+Espero que esta mensagem encontre bem. Estou ansioso para discutir um assunto fascinante sobre economia e política.
+Feliz Aniversário de seu primeiro ano de ensino em administração ou de estudo sobre finanças.
+
+
+### Avaliação do Domínio da Norma-Padrão
+
+**Nota: 1,0 / 10**
+
+A resposta apresentada falha gravemente em quase todos os requisitos estabelecidos pelo comando original. Abaixo, detalho as razões da penalização severa:
+
+---
+
+### Análise Crítica
+
+* **Inadequação ao Gênero e Contexto:** O texto não configura uma carta de recomendação. Em vez de atestar as qualidades de Lucas Silva para um doutorado na USP, ele se inicia como um convite informal para uma discussão e termina com um "Feliz Aniversário" desconexo.
+* **Erros de Regência e Sintaxe:** * No trecho *"Espero que esta mensagem encontre bem"*, falta o objeto direto (encontre **o/a** ou **lhe** encontre). 
+    * A estrutura frasal é simplista e carece da "sofisticação sintática" solicitada.
+* **Falta de Naturalidade e Erudição:** O vocabulário é genérico e beira o infantil (ex: "assunto fascinante"), passando longe do léxico técnico esperado de um Professor Titular de Economia.
+* **Incoerência Textual:** O fechamento mencionando um "primeiro ano de ensino em administração" é completamente aleatório e não possui nexo causal ou lógico com o restante do parágrafo ou com o propósito da carta.
+
+> **Veredito:** O texto parece uma tradução automática mal executada ou um fragmento de rascunho sem revisão. Não há domínio da norma culta, nem cumprimento do tom acadêmico exigido.
+
+---
+
+Gostaria que eu escrevesse a versão correta dessa carta, utilizando o rigor acadêmico e a sofisticação sintática que o cargo de Professor Titular exige?

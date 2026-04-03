@@ -1,0 +1,132 @@
+Dê uma nota de 0 a 10 ao domínio da norma-padrão do português brasileiro na resposta abaixo, penalizando severamente erros de regência, concordância e falta de naturalidade acadêmica.
+P: Escreva uma carta de recomendação formal de um professor titular de Economia para um ex-aluno, Lucas Silva, que foi seu monitor por dois anos e agora pleiteia uma vaga de doutorado na USP. O texto deve ser uma narrativa coesa (sem tópicos ou listas), escrita em português padrão brasileiro erudito, demonstrando sofisticação sintática e vocabulário acadêmico preciso.
+R: 
+Prezado Comitê de Seleção do Programa de Pós-Graduação em Economia da Universidade de São Paulo,
+
+É com inconteste satisfação e senso de dever acadêmico que submeto esta missiva de recomendação em favor de Lucas Silva, cujo percurso intelectual tive o privilégio de acompanhar de perto durante sua formação nesta instituição. Na qualidade de Professor Titular, pude observar a evolução de sua acuidade analítica, destacando-se Lucas não apenas pela excelência no cumprimento das obrigações curriculares, mas, primordialmente, pela vocação investigativa e pelo rigor metodológico que demonstrou ao longo dos dois anos em que atuou sob minha supervisão direta como monitor.
+
+Durante o exercício da monitoria, Lucas revelou uma maturidade intelectual que transcende as expectativas usuais para o nível de graduação. Sua capacidade de mediar o conhecimento, traduzindo abstrações teóricas complexas em explicações acessíveis e logicamente estruturadas aos seus pares, evidencia um domínio profundo dos fundamentos da Teoria Econômica. Para além da competência didática, sua colaboração em discussões de pesquisa foi marcada por uma percepção crítica aguçada e por uma notável habilidade em manejar ferramentas quantitativas, atributos indispensáveis ao pesquisador que se propõe a enfrentar os desafios de um doutorado na prestigiosa Universidade de São Paulo.
+
+O comprometimento de Lucas com a integridade científica e sua constante busca pelo aprimoramento teórico sugerem um perfil de pesquisador de alto desempenho, apto a contribuir significativamente para o debate acadêmico contemporâneo. Sua conduta ética, aliada a uma disciplina de trabalho exemplar e a uma curiosidade intelectual insaciável, o qualifica como um candidato de mérito indiscutível.
+
+Por todo o exposto, recomendo Lucas Silva com o mais elevado grau de confiança, convicto de que seu ingresso neste doutorado representará um ganho mútuo, tanto para o seu desenvolvimento profissional quanto para a excelência contínua deste programa de pós-graduação.
+
+Atenciosamente,
+
+[Seu Nome Completo]
+Professor Titular de Economia
+[Nome da Instituição]
+
+
+
+
+
+
+-- Qwen3.5-Plus Pensamento: 
+**Nota: 9.0**
+
+**Justificativa:**
+O texto demonstra um domínio excepcional da norma-padrão, com concordância e regência praticamente impecáveis e uma coesão narrativa fluida, atendendo plenamente ao solicitado quanto à sofisticação sintática e vocabulário acadêmico. A estrutura é formal, coerente e mantém o tom erudito exigido.
+
+No entanto, a nota não atinge o máximo devido a pequenos deslizes que afetam a **naturalidade acadêmica contemporânea** e a precisão lexical:
+1.  **Lexical:** O uso de "missiva" soa arcaico para uma carta de recomendação atual, mesmo em registro erudito; "carta" seria mais natural. A expressão "inconteste satisfação" é semanticamente rara (usualmente aplica-se a "provas" ou "fatos"), preferindo-se "inequívoca" ou "plena".
+2.  **Regência/Colocação:** A frase "explicações [...] estruturadas aos seus pares" apresenta uma leve inadequação prepositiva. O verbo estruturar, neste contexto, pede "para" (estruturadas *para* seus pares) ou deveria ser substituído por "dirigidas aos".
+3.  **Sintaxe:** O uso do gerúndio com sujeito diverso da oração principal ("Pude observar..., destacando-se Lucas") é aceitável, mas estilisticamente arriscado em norma culta rigorosa, podendo ser considerado um periodoismo menos elegante.
+
+Esses pontos são mínimos diante da qualidade geral, mas justificam a penalidade leve conforme os critérios de naturalidade e precisão.
+
+
+
+
+
+-- Grok 4.20 Expert: 
+**Nota: 9/10**
+
+A resposta demonstra domínio excelente da norma-padrão do português brasileiro erudito, com sintaxe sofisticada, vocabulário acadêmico preciso e estrutura narrativa coesa, exatamente como solicitado na tarefa. Não há erros de concordância nominal ou verbal, nem falhas graves de regência. As construções “destacando-se Lucas pela excelência… mas, primordialmente, pela vocação”, “habilidade em manejar”, “propõe a enfrentar”, “aliada a uma disciplina… e a uma curiosidade… o qualifica” e “recomendo … com o mais elevado grau de confiança” estão gramaticalmente impecáveis e seguem o padrão culto brasileiro.
+
+A penalização (leve) decorre apenas de dois pontos que afetam sutilmente a **naturalidade acadêmica** em contexto de carta de recomendação formal brasileira contemporânea:
+
+- “missiva” soa ligeiramente arcaizante e mais literário/jurídico do que o habitual em cartas acadêmicas da USP ou de programas de pós-graduação em Economia (onde “carta de recomendação” ou simplesmente “recomendação” é o registro mais natural e frequente);
+- “inconteste satisfação” é correto, mas pouco idiomático no gênero; expressões como “grande satisfação”, “imensa satisfação” ou “satisfação e senso de dever acadêmico” soam mais fluidas e convencionais no discurso professoral brasileiro.
+
+Fora esses dois detalhes de registro (que não comprometem a correção gramatical nem a clareza), o texto é sofisticado, fluente e plenamente adequado ao padrão exigido de um professor titular. Trata-se de uma produção de altíssimo nível, com apenas uma pequena margem para maior naturalidade acadêmica brasileira.
+
+
+
+
+
+-- Claude Sonnet 4.6 Extendido: 
+## Avaliação: **8,5 / 10**
+
+O texto demonstra domínio sólido da norma culta e registro acadêmico erudito, com sintaxe elaborada e vocabulário preciso. Contudo, há falhas pontuais que justificam a penalização.
+
+---
+
+### Erro de Regência (penalização principal)
+
+> *"notável habilidade **em** manejar ferramentas quantitativas"*
+
+O substantivo *habilidade* rege a preposição **para** (ou *de*) antes de infinitivo, não *em*. A forma correta seria **"habilidade para manejar"**. Trata-se de erro de regência nominal inequívoco em contexto de escrita erudita — exatamente o tipo que um professor titular não cometeria.
+
+---
+
+### Inadequação de Registro (penalização secundária)
+
+> *"**Para além da** competência didática…"*
+
+A locução *para além de* é um galicismo/iberismo (*au-delà de*, em francês; *para além de*, em português europeu). No português brasileiro padrão culto, o esperado é simplesmente **"Além da competência didática"**. O uso da forma europeia em carta institucional brasileira configura falta de naturalidade acadêmica regional.
+
+---
+
+### Pontos de Excelência
+
+- Progressão argumentativa coesa e sem rupturas temáticas.
+- Construções absolutas de gerúndio (*"destacando-se Lucas…"*) usadas com propriedade.
+- Correlação *tanto… quanto* aplicada corretamente.
+- Concordâncias verbais e nominais sem desvios detectáveis.
+- Vocabulário (*acuidade analítica*, *vocação investigativa*, *missiva*) adequado ao gênero, sem artificialismos gratuitos.
+
+---
+
+### Resumo da Pontuação
+
+| Critério | Situação |
+|---|---|
+| Regência | 1 erro claro (*habilidade em*) |
+| Concordância | Sem erros |
+| Naturalidade acadêmica brasileira | 1 desvio (*para além de*) |
+| Coesão e sofisticação sintática | Alta |
+
+A nota reflete um texto acima da média acadêmica, rebaixado por um erro de regência que, dado o perfil do enunciador fictício, seria inadmissível.
+
+
+
+
+
+
+-- Gemini 3 Rápido: 
+
+A resposta apresentada merece uma nota **9,8/10**.
+
+O texto demonstra um domínio excepcional da norma-padrão e atende com precisão ao comando de "sofisticação sintática" e "naturalidade acadêmica". Abaixo, detalho a análise baseada nos critérios solicitados:
+
+### Pontos Fortes (Excelência Acadêmica)
+
+* **Sintaxe e Pontuação:** O autor utiliza com maestria a **ordem inversa** e as **orações intercaladas** (ex: *"destacando-se Lucas não apenas pela..."*), o que confere o tom erudito esperado de um Professor Titular. A pontuação está impecável, isolando corretamente adjuntos adverbiais e orações explicativas.
+* **Vocabulário Preciso:** O uso de termos como *"missiva"*, *"acuidade analítica"*, *"transcende"* e *"percurso intelectual"* não soa forçado; pelo contrário, constrói a "persona" acadêmica de forma orgânica.
+* **Regência e Concordância:** Não foram detectados erros. A regência de verbos e nomes (ex: *"em favor de"*, *"atento a"*, *"apto a"*) segue rigorosamente o padrão culto. A concordância nominal e verbal mantém-se íntegra mesmo em períodos longos e complexos.
+
+### Observações sobre a "Perfeição"
+
+A leve perda de décimos (que impede o 10 absoluto) não se deve a erros gramaticais, mas a um detalhe de **naturalidade estilística** no contexto acadêmico brasileiro contemporâneo:
+
+1.  **Arcaismo Leve:** O termo *"missiva"* é perfeitamente correto e erudito, porém, mesmo em cartas de recomendação de alto nível para a USP, ele beira o anacronismo. Muitos professores titulares optariam por termos como "parecer", "carta" ou "recomendação", mantendo a formalidade sem recorrer a um vocábulo tão datado.
+2.  **Fluidez das Transições:** Embora a narrativa seja coesa, o encadeamento entre o segundo e o terceiro parágrafo poderia ter uma partícula conectiva um pouco mais robusta para elevar ainda mais a sofisticação lógica, embora o que está escrito seja gramaticalmente irrepreensível.
+
+---
+
+### Conclusão
+
+O texto é um exemplo de **português padrão de alta linhagem**. Se este fosse um exercício de tradução ou redação oficial, seria considerado um "trabalho de mestre". 
+
+**Gostaria que eu analisasse a estrutura argumentativa da carta ou que eu reescrevesse algum trecho para torná-lo ainda mais incisivo?**

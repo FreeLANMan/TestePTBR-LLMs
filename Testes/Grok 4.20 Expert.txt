@@ -59,3 +59,36 @@ O texto flui como uma narrativa única, conforme solicitado (sem tópicos). Há 
 
 Gostaria que eu fizesse uma análise comparativa com uma versão menos formal ou que eu redigisse a resposta de aceitação da USP para este mesmo aluno?
 
+
+
+
+-- Claude Sonnet 4.6 Extendido:
+## Avaliação: **9,5 / 10**
+
+O texto é notavelmente bem construído. A análise a seguir justifica tanto a nota elevada quanto o desconto residual.
+
+---
+
+### ✅ Acertos que sustentam a nota alta
+
+**Regência:** impecável em todos os pontos críticos — *recomendo o candidato **à** vaga*, *coloco-me **à** disposição para prestar*, *contribuirá **para** o avanço*, *julgar oportunos* (futuro do subjuntivo correto, com concordância de "oportunos" com "esclarecimentos"). Não há nenhum deslize de regência verbal ou nominal.
+
+**Concordância:** correta ao longo de todo o texto. Destaque para o particípio *aliada* concordando com o sujeito *perseverança* (e não erroneamente com o termo mais próximo, *visão*), o que é um ponto frequente de falha em textos de nível inferior.
+
+**Sintaxe:** a hipotaxe adverbial e adjetiva é manejada com controle consistente, sem anacolutos nem períodos truncados. A vírgula é usada com critério.
+
+---
+
+### ⚠️ Pontos que motivam o desconto de 0,5
+
+1. **"satisfação intelectual" no período de abertura** — a colocação é semanticamente estranha: *satisfação intelectual* nomeia uma experiência cognitiva que se obtém de um problema resolvido, não do ato de recomendar alguém. Em prosa acadêmica erudita, o sintagma soa levemente deslocado; *satisfação* ou *prazer intelectual* caberia melhor em contexto de descoberta, não de recomendação.
+
+2. **"pesquisas de excelência"** — a locução adjetiva *de excelência* posposta a substantivos (*centro de excelência*, *pesquisas de excelência*) é marca do registro burocrático-institucional, não do estilo acadêmico erudito que a proposta exigia. Uma formulação como *pesquisas de alto rigor científico* ou simplesmente *pesquisas de fôlego* seria mais precisa e menos formulaica.
+
+---
+
+### Síntese
+
+Nenhum erro gramatical efetivo foi identificado — a penalização é inteiramente estilística. Trata-se de um texto que domina a norma-padrão com segurança real, e não apenas aparente; os dois pontos acima são refinamentos de registro, não correções de desvio. A nota 9,5 reflete excelência com margem mínima para aperfeiçoamento.
+
+

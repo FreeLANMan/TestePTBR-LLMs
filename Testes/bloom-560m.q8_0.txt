@@ -1,0 +1,15 @@
+bloom-560m.q8_0
+
+Dê uma nota de 0 a 10 ao domínio da norma-padrão do português brasileiro na resposta abaixo, penalizando severamente erros de regência, concordância e falta de naturalidade acadêmica.
+P: Escreva uma carta de recomendação formal de um professor titular de Economia para um ex-aluno, Lucas Silva, que foi seu monitor por dois anos e agora pleiteia uma vaga de doutorado na USP. O texto deve ser uma narrativa coesa (sem tópicos ou listas), escrita em português padrão brasileiro erudito, demonstrando sofisticação sintática e vocabulário acadêmico preciso.
+R: 
+A professora disse que é um trabalho difícil porque está acostumada a lidar com muitos alunos por ano. (E ela não foi convidada: os estudantes foram selecionados para as provas de seleção). Os professores costumam ser pessoas muito independentes no ensino superior, mas Lucas Silva também tem uma forte personalidade e sabe se relacionar bem.
+### Qual outro e-mail você poderia enviar?
+A professora disse que o professor tinha um trabalho importante a fazer em sua universidade. Foi por isso mesmo? Você concorda com essa afirmação ou diz mais alguma coisa sobre ela?
+
+A:
+
+O post de resposta foi escrito apenas para ilustrar minha dúvida, não é uma sentença final!
+É possível ter os dois lados da pergunta e tentar definir quem deve responder.
+
+Eu acho que o professor devia ser um pouco menos exigente.

@@ -1,0 +1,66 @@
+Qwen2.5-0.5B-Portuguese-v1.Q8_0
+
+
+
+Dê uma nota de 0 a 10 ao domínio da norma-padrão do português brasileiro na resposta abaixo, penalizando severamente erros de regência, concordância e falta de naturalidade acadêmica.P: Escreva uma carta de recomendação formal de um professor titular de Economia para um ex-aluno, Lucas Silva, que foi seu monitor por dois anos e agora pleiteia uma vaga de doutorado na USP. O texto deve ser uma narrativa coesa (sem tópicos ou listas), escrita em português padrão brasileiro erudito, demonstrando sofisticação sintática e vocabulário acadêmico preciso.R: 
+[Seu nome]
+[Nome do seu curso]
+Sua instituição de ensino superior
+
+Prezado Professor Silva,
+
+Estou escrevendo para recomendar Lucas Silva para meu programa de doutorado em Economia na Universidade da Pensilvânia. Estive com ele há dois anos e tenho visto uma mudança significativa nas habilidades, perspectivas e motivações do professor nos últimos dois anos.
+
+Lucas tem sido um amigo confiável ao longo dos anos. Ele sempre apoiou suas ambições acadêmicas e demonstrou um profundo conhecimento de sua área. Seu trabalho árduo e dedicação fazem dele um excelente professor, que sempre se esforça para entregar uma educação completa aos seus alunos.
+
+Em seu tempo livre, Lucas é um leitor ávido, adora ler livros sobre economia e participa regularmente em workshops de Economia. Ele também é membro ativo do clube de Economia e frequentemente compartilha suas experiências com os membros.
+
+Estou confiante de que Lucas se destacará na sua vaga de doutorado de Economia, pois está motivado, dedicado e talentoso para fazer avançar a nossa compreensão da economia. Sua educação em Economia permitiu-lhe explorar uma variedade de conceitos teóricos e aplicá-los no mundo real.
+
+Eu recomendo fortemente que Lucas aceite seu programa de doutorado na USP. Estou confiante de que você será um professor excepcionalmente talentoso, com conhecimento inestimável da área e uma paixão pela educação. Obrigado por reservar um tempo para escrever esta carta, espero que isso ajude a inspirá-lo a se candidatar ao seu programa.
+
+Atenciosamente,
+
+[Seu nome]
+
+
+
+
+
+
+A nota para o domínio da norma-padrão e adequação ao gênero textual na resposta apresentada é **2,0 / 10**.
+
+Embora o texto tente simular uma estrutura de carta, ele falha gravemente em quase todos os requisitos solicitados (sofisticação sintática, vocabulário acadêmico e correção gramatical). A resposta parece ter sido gerada por um tradutor automático ou um modelo com baixo domínio das sutilezas do português brasileiro, resultando em uma falta de naturalidade e coerência lógica.
+
+---
+
+### Análise Crítica e Justificativa
+
+Abaixo, elenco os pontos principais que motivaram a penalização severa:
+
+**1. Incoerência Pragmática e Lógica (O maior erro)**
+* **Confusão de papéis:** O texto afirma que o professor está recomendando Lucas para o "meu programa na Pensilvânia", mas depois menciona a "USP".
+* **Destinatário equivocado:** A saudação "Prezado Professor Silva" é dirigida ao próprio aluno (Lucas Silva), quando deveria ser dirigida à comissão de seleção da USP.
+* **Inversão de autoria:** O parágrafo final diz: "Obrigado por reservar um tempo para escrever esta carta". Ora, quem escreve a carta é o professor; ele não agradece ao destinatário por escrever o que ele mesmo está redigindo.
+
+**2. Falta de Naturalidade Acadêmica e Erros de Regência/Concordância**
+* **"Estive com ele há dois anos":** No contexto de monitoria, o correto seria "fui seu supervisor por dois anos" ou "ele atuou sob minha orientação". A expressão usada é coloquial e imprecisa.
+* **"Mudança significativa nas habilidades... do professor":** O texto refere-se ao aluno como "professor", gerando ambiguidade e erro de hierarquia acadêmica.
+* **"Recomendo que Lucas aceite seu programa":** Erro crasso de regência e sentido. O professor recomenda o aluno *ao* programa, e não recomenda que o aluno *aceite* o programa. Além disso, o uso do possessivo "seu" gera ambiguidade.
+* **"Talentoso para fazer avançar":** Embora gramaticalmente aceitável, é uma construção pobre. O padrão erudito exigiria algo como "dotado de competência analítica para o fomento da pesquisa econômica".
+
+**3. Pobreza de Vocabulário e Sintaxe**
+* O uso repetitivo da palavra "Economia" (presente em quase todas as frases) demonstra falta de recursos coesivos e baixo repertório lexical.
+* **"Lucas tem sido um amigo confiável":** Inadequação total ao tom de uma carta de recomendação acadêmica, que deve focar em competências intelectuais, rigor metodológico e desempenho técnico, não em amizade pessoal.
+
+---
+
+### Exemplo de Aplicação da Norma-Padrão Erudita
+
+Para que você compare, veja como um trecho do segundo parágrafo deveria ser redigido para atingir o nível solicitado:
+
+> *"Durante o biênio em que Lucas Silva exerceu a monitoria sob minha supervisão, foi patente sua evolução intelectual e o rigor metodológico aplicado às suas atribuições. Sua capacidade de análise macroeconômica, aliada a uma proeminente inclinação à pesquisa acadêmica, qualifica-o como candidato apto aos desafios do doutorado nesta instituição."*
+
+---
+
+Gostaria que eu reescrevesse a carta completa seguindo rigorosamente esses critérios de sofisticação e correção gramatical?

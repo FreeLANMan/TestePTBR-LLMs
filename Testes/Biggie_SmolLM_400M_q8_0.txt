@@ -1,0 +1,14 @@
+Biggie_SmolLM_400M_q8_0.gguf
+
+The correct form of the sentence is:
+
+"Do you like the book? It's great! I would like to read it."
+
+This can be written in English as:
+
+"Do you like book that is great? I would like to read it."
+
+The form is not in active, as "I would like to read it" is in the passive voice. The agent of the verb (I - read) is the subject of the main clause. The object of the main clause (book that is great) is qualified by "it is great," which indicates the kind of book being mentioned. The gerund (I) in the main clause is the perfect gerund of the gerund in the main clause, functioning as the complement of the gerund.
+
+In summary, the correct form is "I would like to read that is great," not "I would like to read the that is great."
+

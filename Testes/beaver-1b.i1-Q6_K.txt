@@ -1,0 +1,64 @@
+beaver-1b.i1-Q6_K
+
+Dê uma nota de 0 a 10 ao domínio da norma-padrão do português brasileiro na resposta abaixo, penalizando severamente erros de regência, concordância e falta de naturalidade acadêmica.
+P: Escreva uma carta de recomendação formal de um professor titular de Economia para um ex-aluno, Lucas Silva, que foi seu monitor por dois anos e agora pleiteia uma vaga de doutorado na USP. O texto deve ser uma narrativa coesa (sem tópicos ou listas), escrita em português padrão brasileiro erudito, demonstrando sofisticação sintática e vocabulário acadêmico preciso.
+R: 
+O texto de recomendação foi feito com uma grande paixão pelo professor, Lucas Silva. Escreveu-me um excelente texto em que Lucas traz a imagem do meu exemplo de profissional. É aqui que há o que mais impressiona. A mensagem é tão direta e realista quanto é feita.
+
+O professor Lucas Silva é um excepcional profissional, que nós todos conhecemos. Ele foi um dos melhores professores no Departamento de Economia da Universidade Federal do Rio de Janeiro (UFRJ). Seu professor, Márcio Gomide, descreveu Lucas como "um homem de certeza" e "uma pessoa que não cede ao medo". É por isso que ele é um dos melhores professores do Departamento de Economia da UFRJ.
+
+Ele foi o primeiro a ter um interesse profissional no meu Departamento, dizendo-me: "Mas eu não sei se vou ser um professor neste departamento. Esse é o momento em que você pode demonstrar seu conhecimento e seu talento." Lucas era de certeza. Em 1978, Lucas começou a estudar Economia na UFRJ. Sua formação foi orientada pelo Dr. Mário Sousa, professor de economia, diretor do programa de doutorado de Economia (PPDE) e titular da cadeira 24 da Faculdade de Economia da USP. Lucas concluiu seu Doutorado em 1985, com a tese: "Crédito na União Brasileira".
+
+Em 1985, Lucas foi um dos três professores do Departamento de Economia da UFRJ que se apresentaram ao Conselho Científico do Programa de Doutorado em Economia (PPDE). Lucas não foi o único que atribuiu a sua tese para doutorado. Nos outros dois, esteve a Mário Sousa e a Marcio Gomide. Lucas ganhou, assim como os outros dois, um prêmio de desempenho, a Medalha de Honra do Conselho Científico. O prêmio foi concedido aos três professores que se apresentaram ao Conselho Científico do PPDE.
+
+Em 1987, Lucas foi nomeado Professor Associado da Faculdade de Economia da USP e em 1990, Professor Titular da Universidade Federal do Rio de Janeiro (UFRJ). Em 2001, ele foi eleito Diretor Geral da Faculdade de Economia da UFRJ.
+
+Lucas sempre era um bom professor. Era conhecido por ser um profissional que era muito atento ao seu trabalho e cuidou das suas alunas muito bem. Lucas sempre me fez lembrar que o melhor dos professores é o que faz para os seus alunos, e a pessoa que o faz é ele próprio.
+
+Biblioteca:
+Lucas Silva, Lucas, "Economia de Aprendizagem e Desenvolvimento", 2015.
+
+
+
+
+
+
+Nota: **1,0 / 10**
+
+Esta é uma avaliação rigorosa, mas necessária, dada a discrepância entre a solicitação original (uma carta de recomendação erudita para um ex-aluno candidato ao doutorado) e o texto entregue. A resposta falha em praticamente todos os critérios de norma-padrão, coesão e adequação pragmática.
+
+---
+
+### Análise Crítica
+
+**1. Desvio de Contexto e Falta de Verossimilhança:**
+O texto ignora o comando. Lucas Silva deveria ser um **ex-aluno e monitor** pleiteando doutorado, mas o texto o descreve como um professor titular, doutor desde 1985 e diretor de faculdade. Além disso, a cronologia é impossível (um candidato ao doutorado em 2026 não teria defendido tese em 1985).
+
+**2. Erros de Regência e Concordância:**
+* **Regência:** "Atribuiu a sua tese para doutorado" (uso incorreto de preposição); "Esteve a Mário Sousa" (erro crasso de regência e estrutura).
+* **Concordância:** "A mensagem é tão direta... quanto é feita" (construção sem sentido gramatical); "Lucas sempre era um bom professor" (uso inadequado do imperfeito do indicativo para uma qualidade permanente).
+
+**3. Falta de Naturalidade e Sofisticação Acadêmica:**
+O vocabulário é pobre e repetitivo. O texto apresenta uma estrutura frasal simplista, beirando o infantil ("Lucas era de certeza"), o que é o oposto da "sofisticação sintática" solicitada. Há um uso excessivo de voz passiva e pronomes de forma redundante.
+
+**4. Coesão e Coerência:**
+O texto é um amontoado de fatos desconexos. A frase "O texto de recomendação foi feito com uma grande paixão pelo professor, Lucas Silva" sugere que o professor sente paixão pelo aluno, ou que o texto foi escrito *por* Lucas, gerando ambiguidade sintática grave. 
+
+---
+
+### Exemplos de Incorreções Graves
+
+| Trecho Original | Problema Identificado |
+| :--- | :--- |
+| "Lucas era de certeza." | Expressão inexistente na norma culta; falta de semântica. |
+| "cuidou das suas alunas muito bem." | Além de restritivo (e as alunas?), a construção é coloquial e inadequada para uma carta formal. |
+| "Esteve a Mário Sousa e a Marcio Gomide." | Erro de estrutura sintática; não há verbo que sustente essa preposição. |
+| "O melhor dos professores é o que faz para os seus alunos..." | Redundância e vacuidade argumentativa; falta de precisão terminológica. |
+
+---
+
+### Como seria um trecho com o domínio solicitado:
+> "É com inconteste satisfação que recomendo Lucas Silva ao programa de Doutorado desta prestigiosa instituição. Durante o biênio em que atuou sob minha orientação como monitor da disciplina de Teoria Econômica, Lucas demonstrou não apenas rigor analítico ímpar, mas uma maturidade intelectual raramente observada em discentes de graduação."
+
+**Gostaria que eu reescrevesse a carta de recomendação original utilizando o padrão erudito e a cronologia correta solicitada no início?**
+

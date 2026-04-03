@@ -1,0 +1,31 @@
+gemma-portuguese-luana-2b.i1-IQ2_S
+
+
+Dê uma nota de 0 a 10 ao domínio da norma-padrão do português brasileiro na resposta abaixo, penalizando severamente erros de regência, concordância e falta de naturalidade acadêmica.P: Escreva uma carta de recomendação formal de um professor titular de Economia para um ex-aluno, Lucas Silva, que foi seu monitor por dois anos e agora pleiteia uma vaga de doutorado na USP. O texto deve ser uma narrativa coesa (sem tópicos ou listas), escrita em português padrão brasileiro erudito, demonstrando sofisticação sintática e vocabulário acadêmico preciso.R: 
+Lamento saber que o meu monitor em 2021 não foi suficiente para um doutorado na Universidade dos Estados Unidos. Estou a sua escolha para se formar com honra nesta instituição prestigiosa. Em particular, sou muito grato por ter servido como seu monitor e me forneceu todos os meios para o sucesso neste curso de graduação. Estou curioso para ver o que você fará em minhas próximas semanas no final do curso e espero ser capaz de ter um impacto positivo na sua experiência acadêmica. Muitos agradecimentos pela sua orientação e apoio durante todo o período. chiederei para que você não tenha problemas para me falar sobre os erros que fez quando você era meu monitor? chiederei para que você forneça quaisquer perguntas específicas que tiverem. Muitos sucesses e um domani, meu querido Lucas.
+
+
+
+
+Nota: **1,0 / 10**
+
+### Análise Crítica
+A resposta apresentada falha gravemente em quase todos os requisitos estabelecidos no comando original. O texto não apenas ignora as normas da língua padrão, como também apresenta uma desestruturação lógica e sintática que impede a compreensão da mensagem como uma carta de recomendação.
+
+---
+
+### Principais Falhas Encontradas
+
+* **Incoerência Narrativa e Pragmática:** O texto inverte os papéis. Em vez de o professor recomendar o aluno, o autor escreve como se o aluno estivesse agradecendo ao professor ("sou muito grato por ter servido como seu monitor"). Além disso, menciona uma "Universidade dos Estados Unidos", sendo que o pedido era para a **USP**.
+* **Erros de Regência e Concordância:** Há falhas sistêmicas, como "forneceu" sem sujeito claro e "muitos sucesses" (plural inexistente para o contexto).
+* **Falta de Naturalidade e Solecismos:** O texto parece uma tradução automática de baixíssima qualidade. O uso de palavras em italiano ("chiederei", "domani") é injustificável em um documento que deveria ser em português erudito.
+* **Inadequação Vocabular:** Expressões como "estou curioso para ver o que você fará" e "me falar sobre os erros que fez" são completamente informais e opostas ao "vocabulário acadêmico preciso" solicitado.
+* **Sintaxe:** Não há sofisticação sintática; as frases são desconexas, sem subordinação adequada e carentes de coesão textual.
+
+---
+
+### Conclusão
+O texto não atende ao nível de um professor titular, nem ao de um aluno de graduação, assemelhando-se a um rascunho desconexo que mistura idiomas e ignora as regras mais básicas da norma-padrão brasileira.
+
+**Gostaria que eu redigisse a carta de recomendação correta, seguindo rigorosamente os critérios de erudição e formalidade que você solicitou originalmente?**
+

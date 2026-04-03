@@ -1,0 +1,40 @@
+Dê uma nota de 0 a 10 ao domínio da norma-padrão do português brasileiro na resposta abaixo, penalizando severamente erros de regência, concordância e falta de naturalidade acadêmica.
+P: Escreva uma carta de recomendação formal de um professor titular de Economia para um ex-aluno, Lucas Silva, que foi seu monitor por dois anos e agora pleiteia uma vaga de doutorado na USP. O texto deve ser uma narrativa coesa (sem tópicos ou listas), escrita em português padrão brasileiro erudito, demonstrando sofisticação sintática e vocabulário acadêmico preciso.
+R: 
+A aldeia de Lucas Silva, a aldeia na USP, é um exemplo de uma grande cidade que necessariam um aumento de dados para reduzir o deslocamento. Os dados do USPS, incluindo, são muito mais para cobrir essas informações. O texto mostra os limites dos dados da indústria, onde os dados em uma mesma cidade estão mais fortes e precisos para abordar as necessidades da aldeia. Os dados são classificados de alto a baixo, o que permite que as pessoas se comam a vida na mesa, a mesma mesma, como a escala dos dados no primeiro lugar. O texto também apresenta os limites dos dados para abordar esses casos de deslocamento e fornecer uma visão geral das aldeias.
+
+
+
+
+
+
+
+A nota atribuída à resposta apresentada é **0 (zero)**.
+
+Abaixo, apresento uma análise técnica detalhada justificando a nota, fundamentada nos critérios de regência, concordância e naturalidade acadêmica solicitados.
+
+---
+
+### Análise Crítica
+
+A resposta falha em todos os níveis de competência linguística e não atende aos requisitos básicos do comando original. O texto não é uma carta de recomendação, mas sim um amontoado de frases desconexas que beiram a **ininteligibilidade**.
+
+* **Inadequação de Gênero e Conteúdo:** O comando solicitava uma carta de recomendação formal para um doutorado na USP. O texto entregue discorre de forma confusa sobre "aldeias", "dados do USPS" (serviço postal americano?) e "deslocamento", ignorando completamente o aluno Lucas Silva e a relação acadêmica com o professor.
+* **Erros de Concordância e Flexão:** Há erros graves como *"necessariam"* (forma verbal inexistente) e falta de lógica em estruturas como *"as pessoas se comam a vida na mesa"*.
+* **Regência e Sintaxe:** A sintaxe é caótica. Expressões como *"os dados do USPS, incluindo, são muito mais para cobrir"* não possuem sentido gramatical ou semântico no português brasileiro.
+* **Falta de Naturalidade Acadêmica:** O vocabulário é impreciso e o tom é infantilizado ou fruto de uma tradução automática de baixíssima qualidade. O termo "aldeia" aplicado ao contexto de uma metrópole ou da USP é usado de forma assistemática e sem rigor conceitual.
+
+### Tabela de Avaliação
+
+| Critério | Nota | Observação |
+| :--- | :--- | :--- |
+| **Domínio da Norma-Padrão** | 0/10 | Presença de termos inexistentes e erros primários. |
+| **Regência e Concordância** | 0/10 | Estruturas frasais totalmente rompidas. |
+| **Naturalidade Acadêmica** | 0/10 | Ausência total de sofisticação sintática ou vocabulário técnico. |
+| **Fidelidade ao Comando** | 0/10 | O texto não cumpre a tarefa de escrever uma carta. |
+
+---
+
+> **Nota:** O texto analisado parece ser o resultado de um processo de tradução direta mal executado ou de uma alucinação de modelo de linguagem, não possuindo valor documental ou acadêmico.
+
+Gostaria que eu escrevesse uma versão que realmente atenda aos padrões de excelência exigidos para uma recomendação de doutorado na USP?
